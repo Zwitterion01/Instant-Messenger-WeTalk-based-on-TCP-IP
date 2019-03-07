@@ -1,0 +1,534 @@
+
+/10.205.18.98:61088>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:61090>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:64837>close
+
+
+User: johnson gone!
+
+
+/10.205.18.98:50298>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:50300>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:63439>close
+
+
+User: johnson gone!
+
+
+/192.168.43.115:57988>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/192.168.43.149:52139>usersign*yuanzhuoqun*5211314
+
+
+User: yuanzhuoqun sign successfully.
+
+
+/192.168.43.149:62430>userlog*yuanzhuoqun*5211314
+
+
+User: yuanzhuoqun log successfully.
+
+
+/192.168.43.115:58026>usersign*sbq5555*1234321
+
+
+User: sbq5555 sign successfully.
+
+
+/192.168.43.115:58028>userlog*sbq5555*1234321
+
+
+User: sbq5555 log successfully.
+
+
+/192.168.43.115:58030>request
+
+
+Request has been handdled!
+
+
+/192.168.43.149:60553>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/192.168.43.149:56333>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/192.168.43.149:60148>close
+
+
+User: johnson gone!
+
+
+/192.168.43.115:59598>close
+
+
+User: sbq5555 gone!
+
+
+/10.205.18.98:51711>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:51713>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:52848>close
+
+
+User: johnson gone!
+
+
+/10.205.18.98:59276>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:59278>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:51466>close
+
+
+User: johnson gone!
+
+
+/10.205.18.98:56783>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:56785>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:49432>close
+
+
+User: johnson gone!
+
+
+/10.205.18.98:53832>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:53834>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:60774>userlog*zjn*111
+
+
+User: zjn log successfully.
+
+
+/10.205.18.98:52724>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.205.18.98:56307>close
+
+
+User: johnson gone!
+
+
+/10.205.18.98:63819>close
+
+
+User: zjn gone!
+
+
+/10.205.18.78:64188>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.78:64190>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:64398>userlog*zjn*111
+
+
+User: zjn log successfully.
+
+
+/10.205.18.98:64400>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.205.18.78:64191>close
+
+
+User: johnson gone!
+
+
+/10.205.18.98:54554>close
+
+
+User: zjn gone!
+
+
+/10.213.15.171:50982>userlog*sbq5555*1234321
+
+
+User: sbq5555 log successfully.
+
+
+/10.213.15.171:50984>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:53698>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:53700>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.205.18.98:59365>close
+
+
+User: johnson gone!
+
+
+/10.213.15.171:64581>close
+
+
+User: sbq5555 gone!
+
+
+/10.205.18.98:62900>usersign*newuser*666666
+
+
+User: newuser sign successfully.
+
+
+/10.205.18.98:53811>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:53813>request
+
+
+Request has been handdled!
+
+
+/10.205.18.109:61299>usersign*995178081*qwer123456
+
+
+User: 995178081 sign successfully.
+
+
+/10.205.18.109:61453>userlog*995178081*qwer123456
+
+
+User: 995178081 log successfully.
+
+
+/10.205.18.109:61455>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.205.18.109:61456>close
+
+
+User: 995178081 gone!
+
+
+/10.205.18.109:61457>userlog*995178081*qwer123456
+
+
+User: 995178081 log successfully.
+
+
+/10.205.18.109:61459>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.205.18.109:56956>close
+
+
+User: 995178081 gone!
+
+
+/10.205.18.98:53229>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.205.18.98:53231>request
+
+
+Request has been handdled!
+
+
+/10.205.18.98:58852>close
+
+
+User: johnson gone!
+
+
+/10.8.189.26:59973>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.8.189.26:59975>request
+
+
+Request has been handdled!
+
+
+/10.8.189.26:57097>close
+
+
+User: johnson gone!
+
+
+/10.8.198.6:52013>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.8.198.6:52015>request
+
+
+Request has been handdled!
+
+
+/10.8.189.26:65447>userlog*zjn*111
+
+
+User: zjn log successfully.
+
+
+/10.8.189.26:65449>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.8.189.26:53753>close
+
+
+User: zjn gone!
+
+
+/10.8.189.26:51548>usersign*newuser1*123
+
+
+User: newuser1 sign successfully.
+
+
+/10.8.189.26:54483>userlog*newuser1*111
+
+
+/10.8.189.26:54484>userlog*newuser1*111
+
+
+/10.8.189.26:54485>userlog*newuser1*111
+
+
+/10.8.189.26:54486>userlog*newuser1*111
+
+
+/10.8.189.26:54487>userlog*newuser1*111
+
+
+/10.8.189.26:50371>userlog*johnson*5211314
+
+
+/10.8.189.26:50372>userlog*johnson*5211314
+
+
+/10.8.189.26:49437>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.8.189.26:50332>request
+
+
+Request has been handdled!
+
+
+/10.8.198.6:56606>close
+
+
+/10.8.198.6:58477>userlog*zjn*111
+
+
+User: zjn log successfully.
+
+
+/10.8.198.6:58479>request
+
+
+Request has been handdled!
+
+
+Request has been handdled!
+
+
+/10.8.198.6:57905>close
+
+
+User: zjn gone!
+
+
+/10.8.189.26:59242>close
+
+
+User: johnson gone!
+
+
+/10.8.189.26:53110>userlog*johnson*5211314
+
+
+User: johnson log successfully.
+
+
+/10.8.189.26:53112>request
+
+
+Request has been handdled!
+
+
+/10.8.189.26:57617>close
+
+
+User: johnson gone!
+
+
+/10.8.184.135:51808>userlog*johnson*5211314
+
+
+User:  log successfully.
+
+
+/10.8.184.135:65301>request
+
+
+Request has been handdled!
+
+
+/10.8.184.135:60988>close
+
+
+User: johnson gone!
+
+
+/10.205.18.108:60665>userlog*johnson*5211314
+
+
+User:  log successfully.
+
+
+/10.205.18.108:61808>userlog*johnson*5211314
+
+
+User:  log successfully.
+
+
+/10.205.18.108:61810>request
+
+
+Request has been handdled!
+
+
+/10.205.18.108:58129>close
+
+
+User: johnson gone!
+
